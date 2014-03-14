@@ -1,0 +1,4 @@
+Coppercoin
+==========
+
+Cryptocurrency For You
